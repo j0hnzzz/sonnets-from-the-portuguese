@@ -1,4 +1,4 @@
-# sonnets-from-the-portuguese
+# Sonnets from the Portuguese
 
 The project aims to digitalize Mr. Wen Yiduo's translation of *Sonnets from the Portuguese* which can be found on the Xinyue Magazine published in 1928.
 
